@@ -1,0 +1,28 @@
+name: STR8 PAPER INC.
+favicon: null
+layout_spectrum: 0.0940551683306694
+typography_spectrum: 0.6601427912246436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7825567279942334
+  lightness: 0.6653313103597611
+  saturation: 0.774636636255309
+  rhythmicContrast: 0.9572123107500374
+purpose: []
